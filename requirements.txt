@@ -1,0 +1,8 @@
+# Python 3.11 or 3.12 recommended. Colab's installed TensorFlow may be used directly.
+tensorflow==2.20.0
+keras>=3.10,<4
+numpy>=1.26,<3
+pandas>=2.2,<3
+scikit-learn>=1.5,<2
+matplotlib>=3.8,<4
+# Optional for opening the notebook locally: jupyterlab

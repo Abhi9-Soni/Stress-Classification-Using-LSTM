@@ -1,0 +1,18 @@
+{
+  "raw_rows": 1800,
+  "encoding": "cp1252",
+  "raw_label_counts": {
+    "stressed": 900,
+    "normal": 900
+  },
+  "missing_rows_removed": 0,
+  "empty_rows_removed": 0,
+  "conflicting_text_groups": 1,
+  "conflicting_rows_removed": 2,
+  "same_label_duplicates_removed": 2,
+  "clean_rows": 1796,
+  "clean_label_counts": {
+    "stressed": 899,
+    "normal": 897
+  }
+}

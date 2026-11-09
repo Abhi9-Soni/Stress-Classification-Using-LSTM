@@ -1,0 +1,32 @@
+{
+  "seed": 42,
+  "label_map": {
+    "normal": 0,
+    "stressed": 1
+  },
+  "threshold": 0.5,
+  "max_tokens": 10000,
+  "vocabulary_size": 9992,
+  "sequence_length": 256,
+  "embedding_dim": 64,
+  "lstm_units": 64,
+  "batch_size": 32,
+  "maximum_epochs": 20,
+  "best_epoch": 4,
+  "parameters": 674625,
+  "dataset_sha256": "2298216368aec97b4c1ccc346ac9e7f6e59a9bbdefcf4dd22056dffd32fdf891",
+  "split_sizes": {
+    "train": 1257,
+    "validation": 269,
+    "test": 270
+  },
+  "preprocessing": "clean_text v1; see preprocessing.py",
+  "training_truncation_fraction": 0.14956245027844073,
+  "python": "3.12.14",
+  "tensorflow": "2.20.0",
+  "keras": "3.15.1",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "scikit_learn": "1.8.0",
+  "device": "CPU"
+}

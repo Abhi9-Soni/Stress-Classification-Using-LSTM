@@ -1,4 +1,4 @@
-# Assignment explanation: stressed vs. normal text classification using LSTM
+# Explanation: stressed vs. normal text classification using LSTM
 
 ## Aim
 
